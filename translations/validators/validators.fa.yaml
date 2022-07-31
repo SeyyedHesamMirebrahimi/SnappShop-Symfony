@@ -1,0 +1,4 @@
+LoginRequest.mobile.not_blank: 'نمی تواند خالی باشد'
+LoginRequest.mobile.Regex: 'به درستی وارد نشده است'
+LoginRequest.mobile.GreaterThanOrEqual: 'عدد وارد شده صحیح نمی باشد'
+LoginRequest.mobile.LessThanOrEqual: 'عدد وارد شده صحیح نمی باشد'
